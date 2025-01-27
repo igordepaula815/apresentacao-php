@@ -77,10 +77,17 @@
     // Experiências Profissionais
     echo "<div class='container'>
         <h2>Experiências Profissionais</h2>
-        <ul>
-            <li><strong>Desenvolvedor Full-Stack</strong> - Empresa XYZ (2022 - Presente)</li>
-            <li><strong>Estagiário em Desenvolvimento Web</strong> - Empresa ABC (2021 - 2022)</li>
-        </ul>
+        <div class='paragrafo-destaque'>
+            <p><strong>Freelancer - Desenvolvedor Java</strong> | Dez/2022 - Jun/2023</p>
+            <p>Projeto: Desenvolvimento de um aplicativo móvel para saúde, utilizando Java e programação orientada a objetos.</p>
+            <p>Responsabilidades: Análise de requisitos, design da arquitetura, desenvolvimento de funcionalidades, testes e implantação.</p>
+            <p>Tecnologias: Java, JavaScript</p>
+            <p>Resultados: Implementação de funcionalidades, incluindo cadastro de usuários, acompanhamento de atividades físicas, etc., contribuindo para melhoria na qualidade de vida dos usuários.</p>
+            <p><strong>Empresa: Lopes | Executivo de Vendas | Corretor de Imóveis</strong> | Jan/2018 - Dez/2021</p>
+            <p>Criação e gestão de campanhas de marketing digital para a captação de clientes.</p>
+            <p>Atendimento personalizado a clientes, desde a prospecção até o fechamento do negócio.</p>
+            <p>Negociação de contratos e acompanhamento de processos.</p>
+        </div>
     </div>";
 
     // Habilidades Técnicas
